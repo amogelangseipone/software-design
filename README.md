@@ -79,4 +79,3 @@ The documentation covers the complete blueprint for a full-stack recruitment pla
 - Support chatbot system
 - Platform oversight and maintenance
 
-## 📁 Repository Structure
